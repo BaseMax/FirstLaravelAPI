@@ -1,11 +1,5 @@
 # FirstLaravel
 
-## Database Preview
-
-![sqlite laravel sample project database preview](sqlite-preview.png)
-
-![sqlite laravel sample project database preview](database-post-table-preview.png)
-
 ## Routes
 
 ```
@@ -56,6 +50,12 @@ Psy Shell v0.10.7 (PHP 8.0.3 — cli) by Justin Hileman
 >>> $post->save()
 => true
 ```
+
+### Database Preview
+
+![sqlite laravel sample project database preview](sqlite-preview.png)
+
+![sqlite laravel sample project database preview](database-post-table-preview.png)
 
 ## Acknowledgment
 
