@@ -27,6 +27,7 @@ Route::delete('/posts/{post}', [PostsApiController::class, 'destroy']);
 ### Laravel artisan commands
 
 ```
+php artisan --version
 rm database/database.sqlite 
 sqlite3 database/database.sqlite "create table aTable(field1 int); drop table aTable;"
 php artisan make:model Post -m
