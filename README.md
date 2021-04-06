@@ -1,5 +1,7 @@
 # FirstLaravel
 
+A simple example of how to create a RESTful API in Laravel Framework 8.36.1.
+
 ## Endpoints
 
 **Get all posts:** `GET /api/posts`
