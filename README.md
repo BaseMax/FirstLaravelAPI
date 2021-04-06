@@ -1,5 +1,11 @@
 # FirstLaravel
 
+## Database Preview
+
+![sqlite laravel sample project database preview](sqlite-preview.png)
+
+![sqlite laravel sample project database preview](database-post-table-preview.png)
+
 ## Routes
 
 ```
