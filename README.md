@@ -2,6 +2,9 @@
 
 A simple example of how to create a RESTful API in Laravel Framework 8.36.1.
 
+I used Database **sqlite** because I wanted to deploy this project very quickly and easy.
+You can easily change the type of database and its connection in the **config file**.
+
 ## Endpoints
 
 **Get all posts:** `GET /api/posts`
