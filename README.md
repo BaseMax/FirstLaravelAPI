@@ -73,7 +73,7 @@ Psy Shell v0.10.7 (PHP 8.0.3 — cli) by Justin Hileman
 
 ![sqlite laravel sample project database preview](sqlite-preview.png)
 
-![sqlite laravel sample project database preview](database-post-table-preview.png)
+![sqlite laravel sample project database preview](sqlite-post-table-preview.png)
 
 ## Acknowledgment
 
