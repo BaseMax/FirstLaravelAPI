@@ -1,4 +1,4 @@
-# FirstLaravel
+# First Laravel PHP
 
 A simple example of how to create a RESTful API in Laravel Framework 8.36.1.
 
